@@ -73,16 +73,17 @@ I'm a Software Engineering student at AASTU, and I have love for working on full
  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salah-ace&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-ace&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yared-Habtamu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=27ae60&icon_color=27ae60&text_color=c9d1d9&ring_color=00d9ff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-Habtamu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27ae60&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Salah-ace&theme=tokyonight&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=yared-Habtamu&theme=tokyonight&hide_border=true&background=0D1117&ring=27ae60&fire=00d9ff&currStreakLabel=27ae60&sideLabels=c9d1d9&sideNums=27ae60&dates=8b949e"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salah-ace&theme=tokyo-night&hide_border=true&color=00FF00&line=00FF00&point=00FF00" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=yared-Habtamu&theme=react-dark&bg_color=0D1117&color=27ae60&line=27ae60&point=00d9ff&area_color=27ae60&area=true&hide_border=true"/>
 
 </div>
 ---
