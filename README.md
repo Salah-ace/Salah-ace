@@ -42,6 +42,10 @@ I'm a Software Engineering student at AASTU, and I have love for working on full
 
 ---
 
+## 🏆 Certificates
+- 🎓 [Generative AI Certificate — HANDONG](https://drive.google.com/file/d/1VphOFwNLN9buBrHmQA45azREDLvQ_eUn/view?usp=sharing)
+---
+
 ## 🔭 What I'm Currently Working On
 
 | Project | Description | Status |
