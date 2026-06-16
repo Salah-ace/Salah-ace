@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Engineering student at AASTU, and I absolutely love working with AI and Machine Learning! 🤖💡 Coding is my passion, and I'm always eager to learn more.
+I'm a Software Engineering student at AASTU, and I have love for working on fullstack developments, AI and Machine Learning! 🤖💡 I genuinely love engineering. There's always something new to figure out, and that keeps me excited every single day.
 
 
 
