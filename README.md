@@ -68,20 +68,15 @@ I'm a Software Engineering student at AASTU, and I have love for working on full
 > *More projects coming soon — watch this space!* 👀
 
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Salah-ace&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-ace&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Salah-ace&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Salah-ace&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-ace&layout=donut&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Salah-ace&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salah-ace&theme=tokyo-night&hide_border=true" />
 </div>
-
 ---
 
 ## 🌱 Currently Learning
