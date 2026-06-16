@@ -46,6 +46,15 @@ I'm a Software Engineering student at AASTU, and I have love for working on full
 - 🎓 [Generative AI Certificate — HANDONG](https://drive.google.com/file/d/1VphOFwNLN9buBrHmQA45azREDLvQ_eUn/view?usp=sharing)
 ---
 
+## 🔍 Projects
+ 
+| Project | |
+|---------|--|
+| [Financial-Transaction-Fraud-Detection-Analytics](https://github.com/Salah-ace/Financial-Transaction-Fraud-Detection-Analytics-week-5) | ✨ |
+| [Bank-Customer-Sentiment-Intelligence-Platform](https://github.com/Salah-ace/Bank-Customer-Sentiment-Intelligence-Platform-week-2) | ✨ |
+| [Ethiomart-Telegram-E-Comerce](https://github.com/Salah-ace/Ethiomart-Telegram-E-Comerce-week-4) | ✨ |
+---
+
 ## 🔭 What I'm Currently Working On
 
 | Project | Description | Status |
