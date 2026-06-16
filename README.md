@@ -4,7 +4,7 @@
 
 ### Software Engineering Student @ AASTU · Full-Stack Dev · AI & ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=44FF44&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
