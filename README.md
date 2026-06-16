@@ -73,7 +73,7 @@ I'm a Software Engineering student at AASTU, and I have love for working on full
  
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salah-ace &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=27ae60&icon_color=27ae60&text_color=c9d1d9&ring_color=00d9ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salah-ace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=27ae60&icon_color=27ae60&text_color=c9d1d9&ring_color=00d9ff"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-ace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27ae60&text_color=c9d1d9"/>
 
