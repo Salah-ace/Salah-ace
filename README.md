@@ -12,15 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-```python
-salah = {
-    "name":       "Salah",
-    "university": "Addis Ababa Science & Technology University (AASTU)",
-    "focus":      ["Full-Stack Development", "Artificial Intelligence", "Machine Learning"],
-    "currently":  "Building cool stuff and learning even cooler things 🚀",
-    "fun_fact":   "I debug with coffee ☕ and deploy with confidence 😎",
-}
-```
+I'm a Software Engineering student at AASTU, and I absolutely love working with AI and Machine Learning! 🤖💡 Coding is my passion, and I'm always eager to learn more.
+
+
 
 ---
 
