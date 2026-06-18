@@ -2,7 +2,7 @@
 
 # Hey there, I'm Salah! 👋🚀
 
-### Software Engineering Student @ AASTU · Full-Stack Dev · AI & ML Enthusiast
+### Software Engineering Student @ AASTU · Full-Stack Dev · AI & ML Build
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=44FF44&center=true&vCenter=true&width=800&size=14&lines=Full-Stack+Developer;AI+%26+ML+Explorer+%F0%9F%A4%96;Always+building+%F0%9F%94%A5;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
